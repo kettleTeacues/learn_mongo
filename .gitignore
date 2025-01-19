@@ -1,3 +1,5 @@
+.vscode
+.env
+node_modules
 configdb
 mongodb_data
-.env

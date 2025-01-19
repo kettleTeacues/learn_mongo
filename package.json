@@ -1,0 +1,16 @@
+{
+  "name": "learn_mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kettleTeacues/learn_mongo.git",
+  "author": "kettleTeacues <teacues@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.12.0",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7"
+  }
+}
